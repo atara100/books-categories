@@ -1,0 +1,105 @@
+{
+    "book categories":
+    {
+
+      "children books":[
+      {
+        "name": "הנסיך הקטן",
+        "auther":"אנטואן דה סנט אכזופרי",
+        "price":"78.00 ₪",
+        "more languages":["english","franch"],
+        "catalog number":"01451",
+        "in stock": "true",
+        "more categories":["children books","leisure books"]
+      },
+
+      {
+        "name":"ספור על טיול של ארנב וחתול",
+        "auther":"מיריק שניר",
+        "price":"72.00 ₪",
+        "more languages":["english"],
+        "catalog number":"082514",
+        "in stock": "true",
+        "more categories":["children books","leisure books"]
+      },
+
+          {
+        "name":"גורג הסקרן מעיף עפיפון",
+        "auther":"מרגרט ריי",
+        "price":"52.00 ₪",
+        "more languages":["english,italian"],
+        "catalog number":"8251685",
+        "in stock": "false",
+        "more categories":["children books","leisure books"]
+      } ],
+
+
+
+      "romance book":[
+          {
+        "name":"חוזה אירוסין 932",
+        "auther":"היידי רייס",
+        "price":"86.00 ₪",
+        "more languages":["english,spanish"],
+        "catalog number":"826331",
+        "in stock": "true",
+        "more categories": ["romance book","leisure books"]
+          },
+          
+          {
+        "name":"הלביאה הלוחמת",
+        "auther":"שרון חיון גינת",
+        "price":"82.00 ₪",
+        "more languages":["english,arabic"] ,
+        "catalog number":"805144",
+        "in stock": "true",
+        "more categories":["romance book","leisure books","drama books"]
+          },
+
+         {
+        "name":"האישה בפריז",
+        "auther":"פולה מקליין",
+        "price":"95.00 ₪",
+        "more languages":["english"] ,
+        "catalog number":"051248",
+        "in stock": "false",
+        "more categories":["romance book","leisure books"]
+          }
+      ],
+
+      "leisure books":[
+          {
+        "name":"המשפחה המטיילת אוסטריה ",
+        "auther":"שלומית יפת ביאליק",
+        "price":"134.00 ₪",
+        "more languages":["english"] ,
+        "catalog number":"050244",
+        "in stock": "true",
+        "more categories":["leisure books","children books"]
+          },
+
+       {
+        "name":"גיטנג’לי ",
+        "auther":"רבינדרנת טאגור",
+        "price":"79.00 ₪",
+        "more languages":["english","spanish"] ,
+        "catalog number":"050244",
+        "in stock": "true",
+        "more categories":["leisure books","romance book"]
+          },
+          
+        {
+        "name":"סודות מתוקים ",
+        "auther":"קרין גורן",
+        "price":"139.00 ₪",
+        "more languages":["english","franch"] ,
+        "catalog number":"050244",
+        "in stock": "true",
+        "more categories":["leisure books","romance book"]
+         }
+      ]
+
+      
+    }
+
+}

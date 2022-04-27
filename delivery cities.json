@@ -1,0 +1,60 @@
+{
+    "shipping cities":["Ashdod","Beer sheva","Haifa","Jerusalem","Tel aviv"],
+
+    "delivery details":[
+    {
+        "city": "Ashdod",
+        "shipping company":"Fedex",
+        "shiping method": ["to home", "to the post office"],
+        "delivery time":{
+            "to home":"2-3 buisness days",
+            "collecting point":"4 buisness days",
+            "to the post office":"7 buisness days"
+         }
+    },
+
+    {
+       "city": "Beer sheva",
+       "shipping company":"F&A",
+       "shiping method": [ "collecting point","to the post office"],
+       "delivery time":{
+           "collecting point":"4 buisness days",
+           "to the post office":"7 buisness days"
+          }
+    },
+
+
+    {
+        "city": "Haifa",
+        "shipping company":"Fedex",
+        "shiping method": ["to home", "collecting point","to the post office"],
+        "delivery time":{
+            "to home":"2-3 buisness days",
+            "collecting point":"4 buisness days",
+            "to the post office":"7 buisness days"
+          }
+    },
+
+    {
+        "city": "Jerusalem",
+        "shipping company":"Fedex",
+        "shiping method": ["to home", "collecting point","to the post office"],
+        "delivery time":{
+            "to home":"2-3 buisness days",
+            "collecting point":"4 buisness days",
+            "to the post office":"7 buisness days"
+          }
+    },
+
+        {
+        "city": "Tel aviv",
+        "shipping company":"Chita",
+        "shiping method": ["to home", "collecting point","to the post office"],
+        "delivery time":{
+            "to home":"2-3 buisness days",
+            "collecting point":"4 buisness days",
+            "to the post office":"7 buisness days"
+          }
+    }
+]
+}
